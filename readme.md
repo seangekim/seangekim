@@ -3,7 +3,7 @@
 <h2 algin="center">Hey! I'm Sean 👨‍💻</h1>
 
 
-Hello I'm Sean, welcome to my site! I'm a current engineer on TTD's Performance Automation team, working on real-time bidding infrastructure.
+I'm a current engineer on TTD's Performance Automation team, working on real-time bidding infrastructure.
 
 Checkout any of my projects in my GitHub Repositories. 
 
